@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+* 
+html, body {
+  margin: 0;
+  padding: 0;
+  text-color: gray;
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+  text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+
+}
+
+a {
+  text-decoration: none;
+  color: aquamarine;
+}
+
+.copyright {
+  font-size: 21px;
+  color: gray;
+  font-family: Verdana;
+  text-align: right;
+}
+
